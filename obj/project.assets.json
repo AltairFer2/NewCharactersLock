@@ -1,0 +1,155 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Steamworks.NET/20.2.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.1/Steamworks.NET.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Steamworks.NET.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/lib/netstandard2.1/Steamworks.NET.dll": {
+            "assetType": "runtime",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x86/lib/netstandard2.1/Steamworks.NET.dll": {
+            "assetType": "runtime",
+            "rid": "linux-x86"
+          },
+          "runtimes/osx-x64/lib/netstandard2.1/Steamworks.NET.dll": {
+            "assetType": "runtime",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x86/lib/netstandard2.1/Steamworks.NET.dll": {
+            "assetType": "runtime",
+            "rid": "osx-x86"
+          },
+          "runtimes/win-x64/lib/netstandard2.1/Steamworks.NET.dll": {
+            "assetType": "runtime",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/lib/netstandard2.1/Steamworks.NET.dll": {
+            "assetType": "runtime",
+            "rid": "win-x86"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Steamworks.NET/20.2.0": {
+      "sha512": "qv7NM0fZ2HPnYqTGGJ3Pt3g4R7KS780ysVB33HT66NAgbCuD2pjaSuZBU5pERBwphLgSXcXz8xZR2CSImWTQRw==",
+      "type": "package",
+      "path": "steamworks.net/20.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "doc/README.md",
+        "lib/netstandard2.1/Steamworks.NET.dll",
+        "ref/netstandard2.1/Steamworks.NET.dll",
+        "runtimes/linux-x64/lib/netstandard2.1/Steamworks.NET.dll",
+        "runtimes/linux-x86/lib/netstandard2.1/Steamworks.NET.dll",
+        "runtimes/osx-x64/lib/netstandard2.1/Steamworks.NET.dll",
+        "runtimes/osx-x86/lib/netstandard2.1/Steamworks.NET.dll",
+        "runtimes/win-x64/lib/netstandard2.1/Steamworks.NET.dll",
+        "runtimes/win-x86/lib/netstandard2.1/Steamworks.NET.dll",
+        "steamworks.net.20.2.0.nupkg.sha512",
+        "steamworks.net.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Steamworks.NET >= 20.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Altair Fernando\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Altair Fernando\\Documents\\Desarrollo de juego\\Prueba Mod\\Prueba Mod.csproj",
+      "projectName": "Prueba Mod",
+      "projectPath": "C:\\Users\\Altair Fernando\\Documents\\Desarrollo de juego\\Prueba Mod\\Prueba Mod.csproj",
+      "packagesPath": "C:\\Users\\Altair Fernando\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Altair Fernando\\Documents\\Desarrollo de juego\\Prueba Mod\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Altair Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Steamworks.NET": {
+            "target": "Package",
+            "version": "[20.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

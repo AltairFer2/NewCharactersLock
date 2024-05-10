@@ -1,0 +1,29 @@
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net5.0\Prueba Mod.csproj.AssemblyReference.cache
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net5.0\Prueba Mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net5.0\Prueba Mod.AssemblyInfoInputs.cache
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net5.0\Prueba Mod.AssemblyInfo.cs
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net5.0\Prueba Mod.csproj.CoreCompileInputs.cache
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\Prueba Mod.exe
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\Prueba Mod.deps.json
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\Prueba Mod.runtimeconfig.json
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\Prueba Mod.runtimeconfig.dev.json
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\Prueba Mod.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\Prueba Mod.pdb
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\Steamworks.NET.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\runtimes\linux-x64\lib\netstandard2.1\Steamworks.NET.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\runtimes\linux-x86\lib\netstandard2.1\Steamworks.NET.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\runtimes\osx-x64\lib\netstandard2.1\Steamworks.NET.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\runtimes\osx-x86\lib\netstandard2.1\Steamworks.NET.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\runtimes\win-x64\lib\netstandard2.1\Steamworks.NET.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\runtimes\win-x86\lib\netstandard2.1\Steamworks.NET.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\0Harmony.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\assembly_valheim.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\BepInEx.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\UnityEngine.CoreModule.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net5.0\UnityEngine.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net5.0\Prueba Mod.csproj.Up2Date
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net5.0\Prueba Mod.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net5.0\refint\Prueba Mod.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net5.0\Prueba Mod.pdb
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net5.0\Prueba Mod.genruntimeconfig.cache
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net5.0\ref\Prueba Mod.dll

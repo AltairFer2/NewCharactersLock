@@ -1,0 +1,18 @@
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net8.0\Prueba Mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net8.0\Prueba Mod.AssemblyInfoInputs.cache
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net8.0\Prueba Mod.AssemblyInfo.cs
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net8.0\Prueba Mod.csproj.CoreCompileInputs.cache
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net8.0\Prueba Mod.deps.json
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net8.0\Prueba Mod.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net8.0\Prueba Mod.pdb
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net8.0\0Harmony.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net8.0\assembly_valheim.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net8.0\BepInEx.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net8.0\UnityEngine.CoreModule.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\bin\Debug\net8.0\UnityEngine.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net8.0\Prueba Mod.csproj.AssemblyReference.cache
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net8.0\Prueba Mod.csproj.Up2Date
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net8.0\Prueba Mod.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net8.0\refint\Prueba Mod.dll
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net8.0\Prueba Mod.pdb
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\net8.0\ref\Prueba Mod.dll

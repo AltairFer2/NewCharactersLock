@@ -1,0 +1,5 @@
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\netcoreapp3.1\Prueba Mod.csproj.AssemblyReference.cache
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\netcoreapp3.1\Prueba Mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\netcoreapp3.1\Prueba Mod.AssemblyInfoInputs.cache
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\netcoreapp3.1\Prueba Mod.AssemblyInfo.cs
+C:\Users\Altair Fernando\Documents\Desarrollo de juego\Prueba Mod\obj\Debug\netcoreapp3.1\Prueba Mod.csproj.CoreCompileInputs.cache
